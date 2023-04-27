@@ -1,4 +1,8 @@
 Merhaba git hub
+<<<<<<< HEAD
 i think this
+=======
+no this
+>>>>>>> db562786f24827113cf9abefc136148de5c0a452
 
 
